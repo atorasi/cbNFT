@@ -1,4 +1,5 @@
-#ethkilla
+#cbNFT
+
 software, withdraws funds from OKX and minitizes Coinbase NFT on the Base network
 
 
