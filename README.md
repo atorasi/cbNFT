@@ -1,5 +1,5 @@
 #ethkilla
-software that puts cheap nonsense on the airwaves. 
+software, withdraws funds from OKX and minitizes Coinbase NFT on the Base network
 
 
 How to use:
